@@ -9,7 +9,7 @@ Hello! I have experience working across different areas and technologies, with a
 **Personal Information:**
 - **Birthday:** 11-10
 - **Email:** [gimegilfernandez2@gmail.com](mailto:gimegilfernandez2@gmail.com)
-- **Website:** [www.example.com](http://www.example.com)
+- **Website:** [https://gimegilfer.netlify.app/](https://gimegilfer.netlify.app/)
 - **City:** Corrientes, Argentina
 - **Position:** Freelance
 
