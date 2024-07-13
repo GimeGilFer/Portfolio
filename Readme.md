@@ -8,22 +8,6 @@ Hello! I have experience working across different areas and technologies, with a
 
 **[Download CV](#)**
 
-## Skills
-
-**Technical Skills:**
-- **HTML, CSS, JS:** 75%
-- **PHP & MySQL:** 89%
-- **Laravel & CodeIgniter:** 95%
-- **WordPress:** 81%
-- **Node.js, C# .NET, API, AWS:** 55%
-
-**Professional Skills:**
-- **Communication:** 80%
-- **Project Management:** 70%
-- **Dedication:** 99%
-- **Creativity:** 65%
-- **Teamwork:** 94%
-
 ## Curriculum
 
 **Education:**
