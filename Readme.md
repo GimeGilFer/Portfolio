@@ -6,7 +6,31 @@ Welcome to my portfolio! I'm Gime Gil Fernández, a Full-Stack Developer with ex
 
 Hello! I have experience working across different areas and technologies, with a specialization in backend development. My expertise includes PHP, Laravel, MySQL, and WordPress. I thrive on challenges and continually seek opportunities to apply my skills in a dynamic environment.
 
+**Personal Information:**
+- **Birthday:** 11-10
+- **Email:** [gimegilfernandez2@gmail.com](mailto:gimegilfernandez2@gmail.com)
+- **Website:** [https://gimegilfer.netlify.app/](https://gimegilfer.netlify.app/)
+- **City:** Corrientes, Argentina
+- **Position:** Freelance
+
+
 **[Download CV](#)**
+
+## Skills
+
+**Technical Skills:**
+- **HTML, CSS, JS:** 75%
+- **PHP & MySQL:** 89%
+- **Laravel & CodeIgniter:** 95%
+- **WordPress:** 81%
+- **Node.js, C# .NET, API, AWS:** 55%
+
+**Professional Skills:**
+- **Communication:** 80%
+- **Project Management:** 70%
+- **Dedication:** 99%
+- **Creativity:** 65%
+- **Teamwork:** 94%
 
 ## Curriculum
 
